@@ -1,0 +1,14 @@
+C:\Users\40785\RiderProjects\MagazinOnline\MagazinOnline\obj\Debug\net8.0\MagazinOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40785\RiderProjects\MagazinOnline\MagazinOnline\obj\Debug\net8.0\MagazinOnline.AssemblyInfoInputs.cache
+C:\Users\40785\RiderProjects\MagazinOnline\MagazinOnline\obj\Debug\net8.0\MagazinOnline.AssemblyInfo.cs
+C:\Users\40785\RiderProjects\MagazinOnline\MagazinOnline\obj\Debug\net8.0\MagazinOnline.csproj.CoreCompileInputs.cache
+C:\Users\40785\RiderProjects\MagazinOnline\MagazinOnline\bin\Debug\net8.0\MagazinOnline.exe
+C:\Users\40785\RiderProjects\MagazinOnline\MagazinOnline\bin\Debug\net8.0\MagazinOnline.deps.json
+C:\Users\40785\RiderProjects\MagazinOnline\MagazinOnline\bin\Debug\net8.0\MagazinOnline.runtimeconfig.json
+C:\Users\40785\RiderProjects\MagazinOnline\MagazinOnline\bin\Debug\net8.0\MagazinOnline.dll
+C:\Users\40785\RiderProjects\MagazinOnline\MagazinOnline\bin\Debug\net8.0\MagazinOnline.pdb
+C:\Users\40785\RiderProjects\MagazinOnline\MagazinOnline\obj\Debug\net8.0\MagazinOnline.dll
+C:\Users\40785\RiderProjects\MagazinOnline\MagazinOnline\obj\Debug\net8.0\refint\MagazinOnline.dll
+C:\Users\40785\RiderProjects\MagazinOnline\MagazinOnline\obj\Debug\net8.0\MagazinOnline.pdb
+C:\Users\40785\RiderProjects\MagazinOnline\MagazinOnline\obj\Debug\net8.0\MagazinOnline.genruntimeconfig.cache
+C:\Users\40785\RiderProjects\MagazinOnline\MagazinOnline\obj\Debug\net8.0\ref\MagazinOnline.dll
